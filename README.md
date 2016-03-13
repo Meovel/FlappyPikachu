@@ -13,4 +13,6 @@
 
 * There's Easter egg after evaluating to Raichu ;)
 
+#![Screenshot](https://github.com/zenithanu/FlappyPikachu/blob/master/Screenshot.jpg)
+
 Good luck
