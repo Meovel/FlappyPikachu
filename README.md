@@ -1,5 +1,4 @@
 # FlappyPikachu
--- Hao Zhang
 
 * Use arrow keys to control Pikachu, click mouse to select/unselect a pokemon on ground
 
@@ -13,6 +12,6 @@
 
 * There's Easter egg after evaluating to Raichu ;)
 
-#![Screenshot](https://github.com/zenithanu/FlappyPikachu/blob/master/Screenshot.jpg)
+![Screenshot](https://github.com/zenithanu/FlappyPikachu/blob/master/Screenshot.jpg)
 
-Good luck
+Good luck!
